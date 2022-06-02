@@ -1,4 +1,4 @@
-# Custom Scenarion and Applications
+# Custom Scenarios and Applications
 - [Scenario Convert](https://www.eclipse.org/mosaic/docs/scenarios/create_a_new_scenario/)
 ## Creating a complete scenario to Eclipse Mosaic from OSM file
 ```bash
